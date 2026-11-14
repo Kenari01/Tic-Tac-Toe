@@ -16,4 +16,7 @@ while (win == ' ' && tours < 9)
     win = victoir(tab);
     tours = tours + 1;
 }
+```
+**IA utilisée :** `Gemini`
 
+**Explication :** `L'IA m'a aidé à structurer la condition de maintien de la boucle principale et à comprendre comment alterner proprement les tours entre le joueur et l'ordinateur tout en vérifiant la condition de victoire à chaque passage.`
